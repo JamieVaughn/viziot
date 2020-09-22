@@ -7,8 +7,11 @@
     "lint": "prettier --check \"src/**/*.{js,jsx}\""
   },
   "dependencies": {
+    "bulma": "^0.9.0",
+    "d3": "^6.1.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "victory": "^35.0.9"
   },
   "devDependencies": {
     "@snowpack/app-scripts-react": "^1.10.0",
